@@ -1,0 +1,8 @@
+httpx
+pydantic
+scikit-learn
+pandas
+tabulate
+openai
+fastapi
+uvicorn
